@@ -8,6 +8,7 @@ public static void main(String[]arsg)
 	s.add(12);
 	s.add(3);
 	s.add(38);
+        s.add(45);
 	System.out.println(s);
 	s.remove(2);
 	System.out.println(s);
