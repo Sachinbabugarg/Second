@@ -4,6 +4,8 @@ public class VecTor {
 public static void main(String[]args)
 {
 	Vector v=new Vector();
+        Vector v1=new Vector();
+        Vector v2=new Vector();
 	System.out.println(v.capacity());
 	for(int i=1;i<=10; i++)
 	{
